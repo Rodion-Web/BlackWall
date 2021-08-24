@@ -99,7 +99,7 @@ body {
   margin-top: 34px;
 }
 .container__main__right {
-  background-image: url(../img/main_picture.svg);
+  background-image: url(./img/main_picture.svg);
   width: 786px;
   height: 518px;
 }
@@ -262,7 +262,7 @@ body {
     font-weight: 500;
   }
   .container__main__right {
-    background-image: url(../img/main_picture_mobile.svg);
+    background-image: url(./img/main_picture_mobile.svg);
     width: 350px;
     height: 300px;
   }
